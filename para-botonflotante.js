@@ -11,4 +11,4 @@ function irarriba(pxPantalla) {
     });
 }
 
-irarriba(600);
+irarriba(500);
